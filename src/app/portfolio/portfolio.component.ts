@@ -48,7 +48,7 @@ export class PortfolioComponent {
       summary: 'I built a fully responsive personal portfolio website using Angular to showcase my development skills and projects. The portfolio features a clean, modern design with smooth navigation, highlighting key projects and technical expertise. Through effective use of Angular’s components and services, I implemented dynamic features like interactive galleries, form handling, and seamless routing. ',
       description: '',
       projectLink: 'https://github.com/razat13/Razat-Portfolio',
-      tags: [Tag.REACTJS,Tag.JAVASCRIPT, Tag.HTML5, Tag.CSS3],
+      tags: [Tag.ANGULAR,Tag.JAVASCRIPT, Tag.HTML5, Tag.CSS3],
       pictures: ["../../assets/portfolio1.png", "../../assets/portfolio2.png"]
     },
   ]
